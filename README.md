@@ -33,7 +33,7 @@ def gcd():
 ```
 
 ## Output:
-![output](/gcd.PNG.png)
+![output](/Screenshot%202023-01-14%20205408.png)
 
 
 ## Result:
